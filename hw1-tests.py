@@ -1,6 +1,7 @@
 import unittest
 import hw1
 
+# This is the test suite; it contains test cases for the addone function
 class TestAddOne(unittest.TestCase):
     
     # test addone when called on an empty list
